@@ -1,0 +1,11 @@
+Given data
+Make model
+Challenges
+Strengths/Weaknesses of LASSO?
+Methodology
+Findings
+How can alpha value vary so greatly?
+How LASSO works`
+
+
+* Checked for variance on test set scores. Somehow model score was lower than cv score?
